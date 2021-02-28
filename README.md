@@ -7,3 +7,6 @@ The purpose of this application is to provide a convenient way for customers to 
 
 # Platform
 This app will be available to all Mac, Windows and iOS users. You need internet access to be able to purchase your cinema tickets.  
+
+# URL
+https://github.com/yadimar924/Yadimar-sCinema.git
